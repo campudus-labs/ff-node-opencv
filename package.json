@@ -1,0 +1,22 @@
+{
+  "name": "ff-node-opencv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/main/js/test.js",
+  "scripts": {
+    "hideme": "cd src/main/js && node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "friday",
+    "face-recognition",
+    "images",
+    "pictures"
+  ],
+  "author": "Campudus",
+  "license": "ISC",
+  "devDependencies": {
+    "opencv": "^3.0.0"
+  }
+}
